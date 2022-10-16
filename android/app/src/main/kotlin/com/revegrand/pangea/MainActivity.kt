@@ -1,4 +1,4 @@
-package com.revegrand.theia
+package com.revegrand.pangea
 
 import io.flutter.embedding.android.FlutterActivity
 import io.flutter.embedding.engine.FlutterEngine
