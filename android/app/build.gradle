@@ -43,7 +43,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "chat.pangea.pangeaChat"
+        applicationId "com.revegrand.theia"
         minSdkVersion 18
         targetSdkVersion 30
         versionCode flutterVersionCode.toInteger()

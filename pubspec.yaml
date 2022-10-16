@@ -106,6 +106,9 @@ dependencies:
   vrouter: ^1.2.0+21
   wakelock: ^0.6.1+1
 
+
+  
+
   # tuple: any
   # get_storage: ^2.0.3
   # get: ^4.6.5
@@ -130,6 +133,10 @@ dev_dependencies:
   integration_test:
     sdk: flutter
 
+  
+
+
+
 flutter_native_splash:
   color: "#ffffff"
   color_dark: "#000000"
@@ -147,7 +154,6 @@ flutter:
     - assets/newAssets/
     - assets/countryFlags/
     - assets/icons/
-    - js/
 
   fonts:
     - family: Roboto
